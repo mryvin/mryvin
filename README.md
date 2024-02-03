@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi there 👋<br><br>I’m a data science and machine learning enthusiast, passionate about finding insights from data and building intelligent solutions. I have a Master's Degree in Data Science and a Bachelor’s Degree in Computer Science  from Rutgers University - New Brunswick..
+Hi there 👋<br><br>I'm a Data Scientist who loves Machine Learning. I have an MS in Data Science from Rutgers University, where I also studied Computer Science and Political Science in undergrad. I also founded the Rutgers Data Science Club, where I helped create a network of data enthusiasts and learners. I'm skilled in Python, R, SQL, and various Machine Learning frameworks and methods. I have experience in building and deploying predictive models and neural networks. I'm always eager to learn new things and explore new challenges with data. Feel free to check out my projects and connect with me.
+
 
 
 # 💻 Tech Stack:
